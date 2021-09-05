@@ -1,7 +1,8 @@
-.App {
+body {
   text-align: center;
-  background-image: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%);
+  /* background-image: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%); */
   /* background-image: linear-gradient(to right, red , yellow); */
+  background-image: radial-gradient(circle, #051937, #0f3e64, #126793, #0e93c0, #12c3eb);
 }
 
 .App-logo {
@@ -17,7 +18,7 @@
 
 .App-header {
  
-  margin-top: 100px;
+  margin-top: 150px;
   display: flex;
   flex-direction: column;
   align-items: center;
